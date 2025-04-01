@@ -31,6 +31,9 @@ The dataset has been used in **machine learning research** to evaluate the perfo
 The main goal of this dataset is to develop and compare different **machine learning models** 🤖 to determine the **best-performing algorithm** 🏆 for classifying promoter gene sequences. By applying multiple classifiers, we can analyze their **accuracy, precision, recall**, and other performance metrics 📊 to find the most effective model for DNA sequence classification.
 
 ---
+Disclaimer: The work will be more refined and updated later on.⚠️
+
+---
 
 ## 📚 References
 📖 Towell, Shavlik, & Noordewier, 1990: Evaluation of KBANN, a hybrid learning algorithm using this dataset.
@@ -44,4 +47,6 @@ This dataset can be used for various **classification tasks** in **bioinformatic
 
 ## 📩 Contact
 For any inquiries or collaborations, feel free to **reach out**! ✉️
+rahuldebnath1438@gmail.com
+
 
