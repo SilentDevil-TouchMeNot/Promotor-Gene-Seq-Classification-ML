@@ -1,7 +1,7 @@
 # 🧬 E. Coli Promoter Gene Sequences (DNA) Dataset
 
 ## 📌 Dataset Overview
-The **E. Coli promoter gene sequences (DNA) dataset** is a biological dataset used for classification tasks, specifically for predicting promoter regions in DNA sequences. This dataset has been developed to evaluate a hybrid learning algorithm (KBANN) that inductively refines preexisting domain knowledge.
+The **E. Coli promoter gene sequences (DNA) dataset** is a biological dataset used for classification tasks, specifically for predicting promoter regions in DNA sequences. 
 
 - **📂 Dataset Characteristics**: Sequential, Domain-Theory
 - **🔬 Subject Area**: Biology
