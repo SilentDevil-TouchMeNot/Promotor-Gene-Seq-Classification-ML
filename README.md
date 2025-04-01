@@ -12,7 +12,7 @@ The **E. Coli promoter gene sequences (DNA) dataset** is a biological dataset us
 
 ---
 
-## 📜 Dataset Information
+## 📜 Work Overview
 The dataset consists of DNA sequences labeled as **promoter** or **non-promoter** regions. These sequences play a crucial role in gene regulation and are important for understanding genetic expressions. 🧬🔍
 
 The dataset has been used in **machine learning research** to evaluate the performance of various classification algorithms, including:
